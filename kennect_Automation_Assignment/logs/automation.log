@@ -1,0 +1,14 @@
+13:20:12.713 [main] INFO  - Goto GOR Pathology & Diagnostic login page
+13:20:12.826 [main] INFO  - Entering Username and Password.. 
+13:20:14.164 [main] INFO  - User clicks on Login Button
+13:20:14.435 [main] INFO  - clicked on login button...
+13:20:14.444 [main] INFO  - Clicks on Patients feature
+13:20:17.204 [main] INFO  - Clicks on Add Patient button
+13:20:18.743 [main] INFO  - User Enters contact details of patient
+13:20:20.757 [main] INFO  - User Enters Secondary details of patient
+13:20:23.800 [main] INFO  - User selects options from Test Cost Calculator
+13:20:47.440 [main] INFO  - Goto GOR Pathology & Diagnostic login page
+13:20:47.452 [main] INFO  - Entering Username and Password.. 
+13:20:52.147 [main] INFO  - User clicks on Login Button
+13:20:52.334 [main] INFO  - clicked on login button...
+13:20:52.341 [main] INFO  - User is on GOR Pathology and Diagnostic Home Page
